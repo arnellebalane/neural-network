@@ -1,0 +1,67 @@
+Best MSE reached                   : 0.0014991694182339733
+Number of epochs ran               : 99
+Training set size                  : 120
+Training set network performance   : 100.0%
+Validation set size                : 60
+Validation set network performance : 100.0%
+Validation set test results:
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT
+0.0 0.0 : 0.0 : 0.0 : CORRECT
+1.0 0.0 : 1.0 : 1.0 : CORRECT
+0.0 1.0 : 1.0 : 1.0 : CORRECT
+1.0 1.0 : 0.0 : 0.0 : CORRECT

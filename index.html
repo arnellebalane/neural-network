@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Neural Networks</title>
+  <link rel="stylesheet" href="stylesheets/application.css" />
+</head>
+
+<body>
+  <canvas id="canvas">HTML5 Canvas is not supported in your browser.</canvas>
+  <input type="hidden" id="inputs" />
+  <input type="hidden" id="validation" />
+
+  <script src="javascripts/application.js"></script>
+
+  <script>
+    const $inputs = document.getElementById('inputs');
+    const $validation = document.getElementById('validation');
+
+    Promise.all([
+      fetch('files/inputs/training/xor.in').then(r => r.text()),
+      fetch('files/inputs/validation/xor.in').then(r => r.text())
+    ]).then(([inputs, validation]) => {
+      inputs = inputs.replace(/\n/g, '|');
+      validation = validation.replace(/\n/g, '|');
+
+      $inputs.value = inputs;
+      $validation.value = validation;
+
+      neural.initialize();
+    });
+  </script>
+</body>
+</html>
